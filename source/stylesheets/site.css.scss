@@ -1,0 +1,50 @@
+                    @charset "utf-8";
+                    @import "normalize";
+                    .jumbotron {
+                        font-family: 'Oswald', sans-serif;
+                        position: relative;
+                        background-image: url("k1.jpg");
+                        width: 100%;
+                        height: 700px;
+                        background-size: cover;
+                        overflow: hidden;
+                    }
+                    
+                    .spacing {
+                        margin-left: 30px;
+                        padding: 10px;
+                        word-spacing: 20px;
+                    }
+                    
+                    .dropdown {
+                        margin-left: 610px;
+                        text-align: center;
+                        display: table;
+                    }
+                    
+                    .allign ul {
+                        padding: 16px;
+                        list-style: none;
+                        margin-left: 35px;
+                        height: 00px;
+                        display: inline-block;
+                    }
+                    
+                    .allign li {
+                        display: inline-block;
+                        width: 32%;
+                        height: 203px;
+                        text-align: center;
+                        vertical-align: middle;
+                        word-spacing: 5px;
+                        padding: 30px;
+                        font-size: 8px;
+                    }
+                    
+                    .bcolor {
+                        background-color: lightsteelblue;
+                        width: 100%;
+                        height: 500px;
+                        padding: 100px;
+                        margin-top: 150px;
+                    }
