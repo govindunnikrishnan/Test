@@ -1,0 +1,39 @@
+@charset "utf-8";
+@import "normalize";
+@import "foundation-icons";
+@import "foundation.min";
+body {
+    background-color: lightsteelblue;
+}
+
+.top-bar {
+    background-color: white;
+}
+
+.glyph {
+    border-bottom: 1px dotted #ccc;
+    padding: 10px 0 20px;
+    margin-bottom: 20px;
+}
+
+.preview-glyphs {
+    vertical-align: bottom;
+}
+
+.preview-scale {
+    color: #888;
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+.container {
+    background-color: white;
+}
+
+.button {
+    color: #FFD700;
+}
+
+.container {
+    background-color: black;
+}
