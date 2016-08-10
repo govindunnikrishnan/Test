@@ -1,0 +1,21 @@
+@charset "utf-8";
+@import "normalize";
+@import "source/stylesheets/materialize.css";
+@import "source/stylesheets/materialize.min.css";
+.side-nav {
+    background-color: white;
+    width: 300px;
+}
+
+.bold {
+    font-style: bold;
+    font-size: 20px;
+}
+
+ul {
+    margin-left: 10px;
+}
+
+.logo {
+    margin-left: 50px;
+}
